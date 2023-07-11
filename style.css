@@ -1,0 +1,52 @@
+body{
+    background-image: url(bg1.jpg);
+}
+h1{
+    color:black;
+    font-family:Times new roman sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+/*Calci part*/
+.calc {
+  width: 400px;
+   height: 50%; 
+  margin: 20px auto;
+  padding: 20px;
+    background-image: url(bg.jpg);
+  border-radius: 25px;
+    box-shadow: 2px 2px;
+  text-align: center;
+}
+
+.calc input {
+  width: 100%;
+    height: 75px;
+  margin-bottom: 5px;
+  padding: 20px;
+  font-size: 25px;
+  text-align: right;
+  border-radius: 5px;
+}
+
+.calc button {
+  width: 80px;
+  height: 70px;
+  margin: 5px;
+  font-size: 35px;
+    text-align: center;
+  background-color:azure;
+  border-radius: 30px;
+   
+}
+.calculator button:hover{
+    background-color: azure;
+}
+.calculator button:active {
+  background-color: azure;
+}
+
+
+
+
+
